@@ -149,28 +149,7 @@ cd server && npm start  # Запуск бэкенда (production)
 - Управление сессиями
 - Сохранение макетов
 - История изменений
-
-## 📚 Документация
-
-### Основная документация
-
-- [QUICK_START.md](QUICK_START.md) — Быстрый старт и настройка
-- [DOCKER.md](DOCKER.md) — Подробная документация по Docker
-
-### Интеграция модулей
-
-- [MOD1_INTEGRATION.md](MOD1_INTEGRATION.md) — Интеграция с Mod1 (ASR)
-- [MOD2_INTEGRATION_FIX.md](MOD2_INTEGRATION_FIX.md) — Интеграция с Mod2 (NLP)
-- [MOD3_INTEGRATION.md](MOD3_INTEGRATION.md) — Интеграция с Mod3 (Visual)
-- [API_INTEGRATION_GUIDE.md](API_INTEGRATION_GUIDE.md) — Руководство по API
-
-### Специализированная документация
-
-- [AUTO_RENDER_GUIDE.md](AUTO_RENDER_GUIDE.md) — Автоматический рендеринг
-- [SEQUENTIAL_DISPLAY.md](SEQUENTIAL_DISPLAY.md) — Последовательное отображение
-- [VISUAL_LIBRARY.md](VISUAL_LIBRARY.md) — Библиотека визуальных элементов
-- [src/guidelines/Guidelines.md](src/guidelines/Guidelines.md) — Руководство по разработке
-
+  
 ## 🔧 Настройка
 
 ### Переменные окружения
@@ -259,9 +238,6 @@ cd server
 npm start
 ```
 
-## 🎨 Дизайн
-
-Оригинальный дизайн доступен в [Figma](https://www.figma.com/design/W0rIuTB8FrKOy9xjDy49kM/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-%D0%9E-%D0%BD%D0%B0%D1%81-%D0%B4%D0%BB%D1%8F-InterView).
 
 ## 📝 Лицензия
 
@@ -270,8 +246,3 @@ MIT
 ## 👥 Команда
 
 InterView Team
-
----
-
-**Версия**: 1.0.0  
-**Последнее обновление**: 2025-01
